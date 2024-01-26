@@ -1,24 +1,21 @@
 import logging
 import os
+import inspect
 
 
 class LogGen:
     @staticmethod
     def loggen():
+        logger_name = inspect.stack()[1][3]
+        logger = logging.getLogger(logger_name)
         current_dir = os.path.dirname(os.path.abspath(__file__))
         project_dir = os.path.dirname(current_dir)
-        log_path = os.path.join(project_dir, 'Logs', 'automation.log')
-        logger = logging.getLogger()
-
-        logging.basicConfig(filename=log_path,
-                            format='%(asctime)s: %(levelname)s: %(message)s',
-                            datefmt='%m/%d/%Y %I:%M:%S %p')
-        logger = logging.getLogger()
-        logger.setLevel(logging.INFO)
-
-        console_handler = logging.StreamHandler()
-        console_handler.setLevel(logging.INFO)
-        logger.addHandler(console_handler)
+        log_file = os.path.join(project_dir, 'Logs', 'logfile.log')
+        file_handler = logging.FileHandler(log_file)
+        formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
+        logger.setLevel(logging.DEBUG)
         return logger
 
 

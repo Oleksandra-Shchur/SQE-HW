@@ -1,0 +1,85 @@
+2024-01-26 13:06:35,725 :INFO : Test_001_Home :********** Test_001_Home **********
+2024-01-26 13:06:35,726 :INFO : Test_001_Home :********** Verifying Home Page Title **********
+2024-01-26 13:06:44,464 :INFO : Test_001_Home :********** Home Page Title test case is passed **********
+2024-01-26 13:08:32,014 :INFO : Test_001_About :********** Test_007_Form_Validation **********
+2024-01-26 13:08:32,068 :INFO : Test_001_About :********** Verifying Form Validation **********
+2024-01-26 13:08:41,728 :INFO : Test_001_About :********** Form Validation test case is passed **********
+2024-01-26 13:12:22,347 :INFO : Test_001_About :********** Test_007_Form_Validation **********
+2024-01-26 13:12:22,347 :INFO : Test_001_About :********** Verifying Form Validation **********
+2024-01-26 13:12:34,507 :INFO : Test_001_About :********** Form Validation test case is passed **********
+2024-01-26 13:12:36,409 :INFO : Test_001_About :********** Test_008_Logo_Link **********
+2024-01-26 13:12:36,409 :INFO : Test_001_About :********** Verifying Logo Link **********
+2024-01-26 13:12:43,360 :INFO : Test_001_About :********** Logo Link test case is passed **********
+2024-01-26 13:12:46,685 :INFO : Test_001_About :********** Test_009_Report_Download **********
+2024-01-26 13:12:46,706 :INFO : Test_001_About :********** Verifying Report Download **********
+2024-01-26 13:12:51,795 :INFO : Test_001_About :********** Report Download test case is passed **********
+2024-01-26 13:13:01,955 :INFO : Test_001_Home :********** Test_001_Home **********
+2024-01-26 13:13:01,956 :INFO : Test_001_Home :********** Verifying Home Page Title **********
+2024-01-26 13:13:07,306 :INFO : Test_001_Home :********** Home Page Title test case is passed **********
+2024-01-26 13:13:08,835 :INFO : Test_001_Home :********** Test_002_Theme_Switch **********
+2024-01-26 13:13:08,836 :INFO : Test_001_Home :********** Verifying Theme Switch **********
+2024-01-26 13:13:17,395 :ERROR : Test_001_Home :********** Theme Switch test case is failed **********
+2024-01-26 13:13:19,935 :INFO : Test_001_Home :********** Test_003_Language_Switch **********
+2024-01-26 13:13:19,938 :INFO : Test_001_Home :********** Verifying Language Switch **********
+2024-01-26 13:14:19,325 :INFO : Test_001_Home :********** Test_002_Theme_Switch **********
+2024-01-26 13:14:19,334 :INFO : Test_001_Home :********** Verifying Theme Switch **********
+2024-01-26 13:14:32,047 :ERROR : Test_001_Home :********** Theme Switch test case is failed **********
+2024-01-26 13:14:33,621 :INFO : Test_001_Home :********** Test_003_Language_Switch **********
+2024-01-26 13:14:33,621 :INFO : Test_001_Home :********** Verifying Language Switch **********
+2024-01-26 13:15:47,717 :INFO : Test_001_About :********** Test_007_Form_Validation **********
+2024-01-26 13:15:47,717 :INFO : Test_001_About :********** Verifying Form Validation **********
+2024-01-26 13:15:59,115 :INFO : Test_001_About :********** Test_008_Logo_Link **********
+2024-01-26 13:15:59,116 :INFO : Test_001_About :********** Verifying Logo Link **********
+2024-01-26 13:16:16,007 :INFO : Test_001_About :********** Logo Link test case is passed **********
+2024-01-26 13:16:20,342 :INFO : Test_001_About :********** Test_009_Report_Download **********
+2024-01-26 13:16:20,342 :INFO : Test_001_About :********** Verifying Report Download **********
+2024-01-26 13:16:39,702 :INFO : Test_001_Home :********** Test_001_Home **********
+2024-01-26 13:16:39,703 :INFO : Test_001_Home :********** Verifying Home Page Title **********
+2024-01-26 13:16:52,122 :INFO : Test_001_Home :********** Home Page Title test case is passed **********
+2024-01-26 13:16:58,287 :INFO : Test_001_Home :********** Test_002_Theme_Switch **********
+2024-01-26 13:16:58,288 :INFO : Test_001_Home :********** Verifying Theme Switch **********
+2024-01-26 13:17:13,134 :INFO : Test_001_Home :********** Theme Switch test case is passed **********
+2024-01-26 13:17:19,117 :INFO : Test_001_Home :********** Test_003_Language_Switch **********
+2024-01-26 13:17:19,117 :INFO : Test_001_Home :********** Verifying Language Switch **********
+2024-01-26 13:17:42,606 :INFO : Test_001_Home :********** Language Switch test case is passed **********
+2024-01-26 13:17:47,778 :INFO : Test_001_Home :********** Test_004_Policies_List **********
+2024-01-26 13:17:47,779 :INFO : Test_001_Home :********** Verifying Policies List **********
+2024-01-26 13:17:54,272 :INFO : Test_001_Home :********** Policies List test case is passed **********
+2024-01-26 13:17:58,691 :INFO : Test_001_Home :********** Test_005_1_Location_List **********
+2024-01-26 13:17:58,692 :INFO : Test_001_Home :********** Verifying Location List **********
+2024-01-26 13:18:05,264 :INFO : Test_001_Home :********** Location List test case is passed **********
+2024-01-26 13:18:09,208 :INFO : Test_001_Home :********** Test_005_2_Location_Switch **********
+2024-01-26 13:18:09,208 :INFO : Test_001_Home :********** Verifying Location Switch **********
+2024-01-26 13:18:21,671 :INFO : Test_001_Home :********** Test_006_Search_Function **********
+2024-01-26 13:18:21,672 :INFO : Test_001_Home :********** Verifying Search Function **********
+2024-01-26 13:23:00,223 :INFO : Test_001_About :********** Test_007_Form_Validation **********
+2024-01-26 13:23:00,224 :INFO : Test_001_About :********** Verifying Form Validation **********
+2024-01-26 13:23:09,652 :INFO : Test_001_About :********** Form Validation test case is passed **********
+2024-01-26 13:23:14,369 :INFO : Test_001_About :********** Test_008_Logo_Link **********
+2024-01-26 13:23:14,369 :INFO : Test_001_About :********** Verifying Logo Link **********
+2024-01-26 13:23:27,336 :INFO : Test_001_About :********** Logo Link test case is passed **********
+2024-01-26 13:23:32,038 :INFO : Test_001_About :********** Test_009_Report_Download **********
+2024-01-26 13:23:32,038 :INFO : Test_001_About :********** Verifying Report Download **********
+2024-01-26 13:23:42,460 :INFO : Test_001_About :********** Report Download test case is passed **********
+2024-01-26 13:23:47,387 :INFO : Test_001_Home :********** Test_001_Home **********
+2024-01-26 13:23:47,387 :INFO : Test_001_Home :********** Verifying Home Page Title **********
+2024-01-26 13:24:08,922 :INFO : Test_001_Home :********** Home Page Title test case is passed **********
+2024-01-26 13:24:15,409 :INFO : Test_001_Home :********** Test_002_Theme_Switch **********
+2024-01-26 13:24:15,410 :INFO : Test_001_Home :********** Verifying Theme Switch **********
+2024-01-26 13:24:26,147 :INFO : Test_001_Home :********** Theme Switch test case is passed **********
+2024-01-26 13:24:34,094 :INFO : Test_001_Home :********** Test_003_Language_Switch **********
+2024-01-26 13:24:34,095 :INFO : Test_001_Home :********** Verifying Language Switch **********
+2024-01-26 13:25:03,561 :INFO : Test_001_Home :********** Language Switch test case is passed **********
+2024-01-26 13:25:08,600 :INFO : Test_001_Home :********** Test_004_Policies_List **********
+2024-01-26 13:25:08,601 :INFO : Test_001_Home :********** Verifying Policies List **********
+2024-01-26 13:25:17,006 :INFO : Test_001_Home :********** Policies List test case is passed **********
+2024-01-26 13:25:23,668 :INFO : Test_001_Home :********** Test_005_1_Location_List **********
+2024-01-26 13:25:23,668 :INFO : Test_001_Home :********** Verifying Location List **********
+2024-01-26 13:25:30,536 :INFO : Test_001_Home :********** Location List test case is passed **********
+2024-01-26 13:25:35,192 :INFO : Test_001_Home :********** Test_005_2_Location_Switch **********
+2024-01-26 13:25:35,193 :INFO : Test_001_Home :********** Verifying Location Switch **********
+2024-01-26 13:25:41,206 :INFO : Test_001_Home :********** Location Switch to EMEA test case is passed **********
+2024-01-26 13:25:41,603 :INFO : Test_001_Home :********** Location Switch to APAC test case is passed **********
+2024-01-26 13:25:43,208 :INFO : Test_001_Home :********** Location Switch to AMERICAS test case is passed **********
+2024-01-26 13:25:48,451 :INFO : Test_001_Home :********** Test_006_Search_Function **********
+2024-01-26 13:25:48,452 :INFO : Test_001_Home :********** Verifying Search Function **********

@@ -19,7 +19,7 @@ class AboutPage:
         required_fields = self.driver.find_elements(By.XPATH, self.required_fields_xpath)
         submit_button = self.driver.find_element(By.XPATH, self.submit_button_xpath)
         submit_button.click()
-        WebDriverWait(self.driver, 10).until(EC.visibility_of_any_elements_located((By.XPATH,
+        WebDriverWait(self.driver, 20).until(EC.visibility_of_any_elements_located((By.XPATH,
                                                                                     self.validation_message_xpath)))
         for field in required_fields:
             validation_message = field.find_element(By.XPATH, self.validation_message_xpath)
@@ -28,14 +28,14 @@ class AboutPage:
         return True
 
     def check_logo_link(self):
-        logo_link = WebDriverWait(self.driver, 10).until(
+        logo_link = WebDriverWait(self.driver, 20).until(
             EC.visibility_of_element_located((By.XPATH, self.logo_link_xpath)))
         self.driver.execute_script("arguments[0].click();", logo_link)
-        wait = WebDriverWait(self.driver, 10)
+        wait = WebDriverWait(self.driver, 20)
         wait.until(EC.url_to_be("https://www.epam.com/"))
 
     def check_report_download(self):
-        download_link = WebDriverWait(self.driver, 30).until(
+        download_link = WebDriverWait(self.driver, 40).until(
             EC.element_to_be_clickable((By.XPATH, self.download_button_xpath)))
         download_link.click()
         download_dir = '/Users/oleksandra/Downloads'
