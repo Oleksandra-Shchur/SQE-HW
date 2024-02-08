@@ -11,6 +11,8 @@ class UserPage:
 
     def create_user(self, user_data=None):
         api_url = self.base_api_url + "/user"
+
+        # big plus for this approach
         data = user_data if user_data else JSONFixture.single_user_data()
         response = requests.post(api_url, json=data)
         return response

@@ -2,7 +2,7 @@ import configparser
 import requests
 from utilities.readProperties import ReadConfig
 
-
+# Naming: not really a "page"
 class PetPage:
     parser = configparser.ConfigParser()
     parser.read('config.ini')
