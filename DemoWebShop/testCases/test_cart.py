@@ -1,4 +1,5 @@
 import os
+# which should be settings of the project for this kind of import? Have you switched root dir for each task?
 from pageObjects.CartFunctionality import CartFunctionality
 from pageObjects.Item import Item
 from pageObjects.LoginPage import LoginPage
@@ -14,9 +15,13 @@ class TestCartFunctionality:
     user_email = ReadConfig.get_user_email()
     password = ReadConfig.get_password()
     logger = LogGen.loggen()
+
+    # could we move Screenshots directory init to driver extension where this screenshots will be done?
     current_dir = os.path.dirname(os.path.abspath(__file__))
     project_dir = os.path.dirname(current_dir)
     screenshots_dir = os.path.join(project_dir, 'Screenshots')
+
+    # locator in test it's really bad practice, try to move it to page
     item_desktops = Item(
         name='Build your own cheap computer',
         shop_locator=(By.CSS_SELECTOR, ".item-box:nth-child(1) img"),
@@ -29,7 +34,10 @@ class TestCartFunctionality:
 
     def test_add_item_to_cart(self, setup):
         self.logger.info("*************** Test_001_AddItemToCart *****************")
+
+        # there is no need in the following line. Driver should be accessible immediatelly by self.driver
         self.driver = setup
+        # also it will be better to return in test final version of driver with all extensions
         e_driver = EventFiringWebDriver(self.driver, DriverListener(self.driver, self.logger, self.screenshots_dir))
         e_driver.get(self.base_url + "login")
         e_driver.maximize_window()
@@ -37,17 +45,26 @@ class TestCartFunctionality:
         login_page.set_email(self.user_email)
         login_page.set_password(self.password)
         login_page.click_login()
+        # All opening, browser, maximize it, and login should be moved from test to preconditions.
         self.logger.info("************* Login succesfully **********")
         self.logger.info("******* Starting Add Item Test **********")
         e_driver.get(self.base_url + "desktops")
         cart = CartFunctionality(e_driver)
+
+        # basically this one line is our test
+        # where we do just two clicks without any asserting that something was added or changed
+        # not looks like real test
         is_item_added = cart.add_item_to_cart(self.item_desktops.shop_locator)
+
+        # Excessive verification just for logging purpose, can be removed at all
         if is_item_added:
             self.logger.info("**** Add item to cart test passed ****")
             assert True
         else:
             self.logger.error("**** Add item to cart test failed ****")
             assert False
+
+        # Closing driver already exist in postcondition
         e_driver.quit()
 
     def test_remove_item_from_cart(self, setup):
@@ -65,7 +82,11 @@ class TestCartFunctionality:
         e_driver.get(self.base_url + "desktops")
         cart = CartFunctionality(e_driver)
         cart.add_item_to_cart(self.item_desktops.shop_locator)
+
+        # why directly changing url instead of clicking appropriate button?
+        # I have doubts then people will go to cart by url
         e_driver.get(self.base_url + "cart")
+        # also test without any verification that removing from cart is really working
         if cart.remove_item_from_cart(self.item_desktops.cart_locator):
             self.logger.info("**** Remove item from cart test passed ****")
             assert True
@@ -90,6 +111,8 @@ class TestCartFunctionality:
         cart = CartFunctionality(e_driver)
         cart.add_item_to_cart(self.item_desktops.shop_locator)
         e_driver.get(self.base_url + "cart")
+
+        # magic method which looks like "verify everything is fine" and in test we don't see what we really should check
         if cart.checkout:
             self.logger.info("**** Checkout test passed ****")
             assert True
@@ -116,6 +139,9 @@ class TestCartFunctionality:
 
         e_driver.get(self.base_url + "apparel-shoes")
         cart = CartFunctionality(e_driver)
+
+        # what will be if exactly this product will be deleted?
+        # I suppose we need more ajustable test like click at first product, or randomly choosen product
         is_item_added = cart.add_item_to_wishlist(self.item_apparel_shoes.shop_locator,
                                                   "50s-rockabilly-polka-dot-top-jr-plus-size")
 

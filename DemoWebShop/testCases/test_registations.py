@@ -15,6 +15,9 @@ class Test_001_Registrations:
     project_dir = os.path.dirname(current_dir)
     screenshots_dir = os.path.join(project_dir, 'Screenshots')
 
+    # this test looks more like test, finally :)
+    # we have steps (enter, confirm)
+    # and separate checking of registered user
     def test_user_registration(self, setup):
         self.logger.info("*************** Test_001_Registration *****************")
         self.logger.info("**** Registration test started ****")
@@ -23,6 +26,8 @@ class Test_001_Registrations:
         self.logger.info("****Opening URL****")
         e_driver.get(self.base_url + "register")
         registration_page = RegistrationsPage(e_driver)
+
+        # what purpose in self here?
         self.email = random_generator() + "@gmail.com"
         registration_page.set_gender('mail')
         registration_page.set_first_name('Test')

@@ -1,3 +1,5 @@
+# not used and broken imports, should be deleted before commit
+
 import os
 import testCases
 from selenium.webdriver.support.events import AbstractEventListener
@@ -15,4 +17,6 @@ class DriverListener(AbstractEventListener):
         screenshot_file = os.path.join(self.screenshots_dir, f'{test_name}.png')
         driver.save_screenshot(screenshot_file)
         self.logger.error(f'{test_name} is failed')
+
+        # what is the purpose of this assert? why we need to make an error?
         assert False

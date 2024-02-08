@@ -38,6 +38,8 @@ class Test_003_ComputersGroup:
         e_driver.get(self.base_url + "desktops")
         computers_group = ComputersGroup(e_driver)
         sorting_option_text = "Created on"
+
+        # here we check only sorting label was changed, but what about has products order changed?
         if computers_group.select_sort_option(sorting_option_text):
             self.logger.info("**** Sorting test passed ****")
             assert True
@@ -55,6 +57,8 @@ class Test_003_ComputersGroup:
         e_driver.get(self.base_url + "desktops")
         computers_group = ComputersGroup(e_driver)
         items_per_page_value = "12"
+
+        # as in previous we check only labels, what about real number of items per page
         is_correct_number_displayed = computers_group.select_items_per_page(items_per_page_value)
         if is_correct_number_displayed:
             self.logger.info("**** Items Per Page Test Passed ****")
