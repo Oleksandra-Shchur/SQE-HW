@@ -20,6 +20,10 @@ class ComputersGroup:
         computers_element.click()
         sub_group_elements = self.driver.find_elements(*self.sub_group_elements_xpath)
         # Validate the count of subgroup
+
+        # expected categories and number of categories should be moved to test
+        # in pages should be just logic how to get this names/numbers
+        # if also should be changed to assert in test for better readability of test
         expected_sub_group_names = ['Desktops', 'Notebooks', 'Accessories']
         actual_sub_group_names = [element.text.strip() for element in sub_group_elements]
         if len(actual_sub_group_names) == 3:
@@ -30,6 +34,7 @@ class ComputersGroup:
         else:
             return False
 
+    # Select from dropdown also shuld be moved to universal base method as click and enter text
     def select_sort_option(self, option_text):
         wait = WebDriverWait(self.driver, 10)
         sort_dropdown = wait.until(EC.element_to_be_clickable(self.sort_dropdown_xpath))

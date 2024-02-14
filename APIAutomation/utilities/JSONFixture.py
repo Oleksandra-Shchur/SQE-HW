@@ -1,4 +1,5 @@
 class JSONFixture:
+    # This approach is better and will be ideal with some data generation like uniq email, id, etc.
     @staticmethod
     def single_user_data():
         return {
