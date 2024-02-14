@@ -17,5 +17,3 @@ class LogGen:
         logger.addHandler(file_handler)
         logger.setLevel(logging.DEBUG)
         return logger
-
-
