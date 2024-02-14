@@ -22,7 +22,7 @@ class HomePage:
         return self.driver.title
 
     def switch_theme(self):
-        wait = WebDriverWait(self.driver, 20)
+        wait = WebDriverWait(self.driver, 10)
         theme_switcher = wait.until(EC.element_to_be_clickable(self.theme_switch))
         theme_switcher.click()
 
@@ -36,7 +36,7 @@ class HomePage:
 
     def switch_language(self):
         self.driver.find_element(*self.language_indicator).click()
-        wait = WebDriverWait(self.driver, 30)
+        wait = WebDriverWait(self.driver, 10)
         language_switcher = wait.until(EC.element_to_be_clickable(self.language_ukrainian))
         language_switcher.click()
         wait.until(EC.url_contains("https://careers.epam.ua/"))
@@ -62,7 +62,7 @@ class HomePage:
     def check_search(self, query):
         search_button = self.driver.find_element(*self.search_button)
         search_button.click()
-        wait = WebDriverWait(self.driver, 50)
+        wait = WebDriverWait(self.driver, 10)
         search_field = wait.until(EC.element_to_be_clickable(self.search_field))
         search_field.click()
         search_field.send_keys(query + Keys.RETURN)
