@@ -4,22 +4,21 @@ import requests
 from utilities.readProperties import ReadConfig
 
 
-class UserPage:
+class UserAPIActions:
     parser = configparser.ConfigParser()
     parser.read('config.ini')
     base_api_url = ReadConfig.get_application_url()
 
     def create_user(self, user_data=None):
         api_url = self.base_api_url + "/user"
-
-        # big plus for this approach
         data = user_data if user_data else JSONFixture.single_user_data()
         response = requests.post(api_url, json=data)
         return response
 
-    def create_users_with_list(self, user_data):
+    def create_users_with_list(self, user_data=None):
         api_url = self.base_api_url + "/user/createWithList"
-        response = requests.post(api_url, json=user_data)
+        data = user_data if user_data else JSONFixture.multiple_user_data()
+        response = requests.post(api_url, json=data)
         return response
 
     def login_user(self, username, password):
