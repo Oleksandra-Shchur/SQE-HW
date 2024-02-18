@@ -1,10 +1,10 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from EpamProject.pageObjects.BasePage import BasePage
 
 
-class HomePage:
+class HomePage(BasePage):
     search_field = (By.XPATH, "//input[@id='new_form_search']")
     search_button = (By.XPATH, "//button[@class='header-search__button header__icon']")
     theme_switch = (By.XPATH, "//header/div[1]/div[1]/section[1]/div[1]")
@@ -15,15 +15,11 @@ class HomePage:
     policies_list = (By.XPATH, "//div[@class='policies']")
     location_list = (By.XPATH, "//div[@role='tablist']")
 
-    def __init__(self, driver):
-        self.driver = driver
-
     def get_title(self):
         return self.driver.title
 
     def switch_theme(self):
-        wait = WebDriverWait(self.driver, 10)
-        theme_switcher = wait.until(EC.element_to_be_clickable(self.theme_switch))
+        theme_switcher = self.wait.until(EC.element_to_be_clickable(self.theme_switch))
         theme_switcher.click()
 
     def check_theme(self):
@@ -36,10 +32,9 @@ class HomePage:
 
     def switch_language(self):
         self.driver.find_element(*self.language_indicator).click()
-        wait = WebDriverWait(self.driver, 10)
-        language_switcher = wait.until(EC.element_to_be_clickable(self.language_ukrainian))
+        language_switcher = self.wait.until(EC.element_to_be_clickable(self.language_ukrainian))
         language_switcher.click()
-        wait.until(EC.url_contains("https://careers.epam.ua/"))
+        self.wait.until(EC.url_contains("https://careers.epam.ua/"))
 
     def check_policies_list(self):
         expected_policies_items = ["INVESTORS", "COOKIE POLICY", "OPEN SOURCE", "APPLICANT PRIVACY NOTICE",
@@ -62,8 +57,7 @@ class HomePage:
     def check_search(self, query):
         search_button = self.driver.find_element(*self.search_button)
         search_button.click()
-        wait = WebDriverWait(self.driver, 10)
-        search_field = wait.until(EC.element_to_be_clickable(self.search_field))
+        search_field = self.wait.until(EC.element_to_be_clickable(self.search_field))
         search_field.click()
         search_field.send_keys(query + Keys.RETURN)
-        wait.until(EC.url_contains("https://www.epam.com/search?q=" + query))
+        self.wait.until(EC.url_contains("https://www.epam.com/search?q=" + query))

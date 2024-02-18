@@ -1,0 +1,6 @@
+2024-02-18 22:04:46,144 :INFO : Test_001_About :********** Test_007_Form_Validation **********
+2024-02-18 22:04:46,145 :INFO : Test_001_About :********** Verifying Form Validation **********
+2024-02-18 22:04:55,644 :INFO : Test_001_About :********** Form Validation test case is passed **********
+2024-02-18 22:05:11,047 :INFO : Test_001_Home :********** Test_001_Home **********
+2024-02-18 22:05:11,047 :INFO : Test_001_Home :********** Verifying Home Page Title **********
+2024-02-18 22:05:18,309 :INFO : Test_001_Home :********** Home Page Title test case is passed **********

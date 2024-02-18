@@ -1,5 +1,5 @@
-from pageObjects.UserAPIActions import UserAPIActions
-from utilities.readProperties import ReadConfig
+from APIAutomation.pageObjects.UserAPIActions import UserAPIActions
+from APIAutomation.utilities.readProperties import ReadConfig
 
 
 class Test_003_Logout:

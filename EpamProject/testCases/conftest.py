@@ -1,8 +1,8 @@
 import pytest
 from selenium import webdriver
-from utilities.customLogger import LogGen
+from EpamProject.utilities.customLogger import LogGen
 import os
-from utilities.DriverListener import DriverListener
+from EpamProject.utilities.DriverListener import DriverListener
 from selenium.webdriver.support.events import EventFiringWebDriver
 
 logger = LogGen.loggen()

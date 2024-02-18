@@ -1,5 +1,14 @@
 import pytest
+import os
 from selenium import webdriver
+from utilities.customLogger import LogGen
+from utilities.DriverListener import DriverListener
+from selenium.webdriver.support.events import EventFiringWebDriver
+
+logger = LogGen.loggen()
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_dir = os.path.dirname(current_dir)
+screenshots_dir = os.path.join(project_dir, 'Screenshots')
 
 
 @pytest.fixture()
@@ -15,8 +24,10 @@ def setup(browser):
         print("Launching Safari browser.........")
     else:
         raise Exception("No browser provided ")
-    yield driver
-    driver.quit()
+    driver.maximize_window()
+    e_driver = EventFiringWebDriver(driver, DriverListener(driver, logger, screenshots_dir))
+    yield e_driver
+    e_driver.quit()
 
 
 def pytest_addoption(parser):

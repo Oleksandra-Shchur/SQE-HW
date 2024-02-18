@@ -1,0 +1,1762 @@
+2024-02-05 21:06:27,772 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-05 21:06:30,742 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 21:06:30,743 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 21:06:32,534 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-05 21:10:00,022 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-05 21:10:03,172 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 21:10:03,173 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 22:27:44,901 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-05 22:27:48,811 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 22:27:48,811 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 22:27:50,767 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-05 22:28:19,191 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-05 22:28:21,659 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 22:28:21,659 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 22:29:13,786 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-05 22:29:16,823 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 22:29:16,824 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 22:29:54,582 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-05 22:29:57,145 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-05 22:29:57,146 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-05 22:30:00,508 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 07:14:49,628 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:15:17,561 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:39:29,922 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:42:48,365 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 07:42:51,749 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:42:51,750 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:42:54,685 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:46:12,249 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:49:15,625 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:49:18,778 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:49:18,778 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:49:25,592 :ERROR : TestCartFunctionality :**** Checkout test failed ****
+2024-02-06 07:52:09,660 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:52:13,712 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:52:13,713 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:52:16,174 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:03,425 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:53:06,224 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:53:06,224 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:53:09,585 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:10,383 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:13,351 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:13,857 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:33,584 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:34,026 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:34,572 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:45,970 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 07:53:55,976 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:53:56,259 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 07:54:09,856 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:54:12,467 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:54:12,468 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:54:20,748 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 07:54:35,420 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 07:54:37,609 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 07:54:37,614 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 07:54:40,558 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:04:24,459 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:04:27,545 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:04:27,546 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:04:30,797 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:05:51,960 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:05:54,879 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:05:54,880 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:05:57,127 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:06:22,306 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:06:25,200 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:06:25,200 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:06:26,099 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:06:54,923 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:06:57,386 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:06:57,387 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:06:58,535 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:07:11,013 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:07:13,402 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:07:13,402 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:07:14,852 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:07:26,886 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:07:29,814 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:07:29,814 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:07:31,987 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:10:30,208 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:10:33,213 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:10:33,213 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:10:36,598 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 08:10:45,900 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:10:49,141 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:10:49,141 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:10:51,283 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:13:39,232 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:13:41,636 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:13:41,637 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:13:49,215 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:14:47,329 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:14:49,942 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:14:49,943 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:14:52,548 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:16:37,914 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:16:40,840 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:16:40,841 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:16:43,521 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:17:30,530 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:17:33,249 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:17:33,250 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:17:35,358 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:18:54,604 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:18:57,456 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:18:57,457 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:19:00,878 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 08:20:03,557 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:20:06,560 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:20:06,561 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:20:07,633 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:20:10,352 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:20:14,446 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:20:14,446 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:20:16,731 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:20:19,533 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:20:23,879 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:20:23,879 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:20:26,051 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:20:41,992 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:20:44,459 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:20:44,459 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:20:46,281 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:20:53,195 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:20:55,504 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:20:55,504 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:20:56,814 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:20:58,807 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:21:00,918 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:21:00,918 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:21:01,705 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:21:03,612 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:21:06,050 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:21:06,050 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:21:08,371 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:21:53,824 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:21:56,525 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:21:56,525 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:21:58,769 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:22:01,002 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:22:03,099 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:22:03,099 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:22:05,486 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 08:22:07,411 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:22:09,439 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:22:09,439 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:22:11,064 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:22:18,383 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:22:20,746 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:22:20,746 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:22:21,565 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:22:23,430 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:22:26,491 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:22:26,491 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:22:27,528 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:22:30,607 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:22:34,394 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:22:34,394 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:22:36,416 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:23:17,236 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:23:19,771 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:23:19,771 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:23:21,520 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:23:23,530 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:23:25,858 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:23:25,858 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:23:28,071 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 08:23:29,960 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:23:32,320 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:23:32,321 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:23:49,132 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:23:58,027 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 08:24:00,500 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 08:24:00,501 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 08:24:01,719 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 08:24:04,424 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 08:24:06,349 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:24:06,349 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 08:24:08,853 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 08:24:11,088 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 08:24:13,661 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:24:13,662 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 08:24:15,451 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 08:55:28,229 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 08:55:30,981 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:55:30,981 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 08:55:32,983 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 08:58:40,420 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 08:58:43,604 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 08:58:43,604 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 08:58:45,660 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:01:17,605 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:01:20,874 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:01:20,875 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:01:22,702 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:02:00,742 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:02:03,684 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:02:03,685 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:02:04,526 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:02:34,764 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:02:37,185 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:02:37,186 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:02:38,836 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:02:53,026 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:02:55,889 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:02:55,889 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:02:57,314 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:02:58,084 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:03:11,568 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:06:42,659 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:06:45,532 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:06:45,533 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:06:46,386 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:07:13,493 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:07:16,710 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:07:16,711 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:07:18,321 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:07:19,328 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:07:34,860 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:09:45,691 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:09:48,225 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:09:48,227 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:09:50,617 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:13:19,868 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:13:22,772 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:13:22,772 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:13:23,766 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:14:37,904 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:14:40,407 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:14:40,407 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:14:41,678 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:14:42,437 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:14:57,370 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:14:59,933 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:14:59,934 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:15:01,795 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:15:02,737 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:15:14,421 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:17:48,281 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:17:50,658 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:17:50,659 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:17:51,901 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:18:42,279 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:18:45,106 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:18:45,107 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:18:46,107 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:19:47,576 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:19:50,024 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:19:50,025 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:19:51,437 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:22:13,785 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:22:17,804 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:22:17,805 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:22:19,718 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:23:40,943 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:23:44,116 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:23:44,117 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:23:45,889 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:24:08,137 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:24:10,477 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:24:10,477 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:24:11,892 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:24:27,833 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:24:30,451 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:24:30,451 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:24:31,860 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:24:51,645 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:24:54,465 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:24:54,466 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:24:55,730 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:25:25,219 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:25:27,734 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:25:27,734 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:25:28,809 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:27:02,025 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:27:05,562 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:27:05,562 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:27:07,276 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:30:54,162 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:30:56,716 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:30:56,716 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:30:58,845 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:33:00,314 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:33:02,619 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:33:04,442 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:33:06,386 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:33:28,521 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:33:30,507 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:33:32,420 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:33:34,311 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:34:31,463 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:34:33,902 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 09:34:33,902 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 09:34:35,353 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 09:34:37,397 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:34:39,633 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:34:39,633 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 09:34:42,273 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 09:34:44,111 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:34:46,503 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:34:46,507 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 09:34:48,142 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 09:34:50,320 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:34:52,712 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:34:52,713 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:34:54,094 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:41:39,400 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:41:42,622 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 09:41:42,623 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 09:41:44,471 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 09:41:46,354 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:41:48,472 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:41:48,472 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 09:41:51,023 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 09:41:52,903 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:41:55,133 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:41:55,134 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 09:41:56,915 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 09:41:58,906 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:42:01,174 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:42:01,175 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:42:03,266 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:42:19,019 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-06 09:42:19,020 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-06 09:42:19,020 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:42:21,711 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-06 09:42:23,618 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-06 09:42:23,619 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-06 09:42:23,619 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:42:25,581 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-06 09:42:27,638 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-06 09:42:27,638 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-06 09:42:27,639 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-06 09:42:29,782 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-06 09:42:39,465 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-06 09:42:39,466 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-06 09:42:39,466 :INFO : Test_002_Login :****Opening URL****
+2024-02-06 09:42:41,972 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-06 09:42:50,369 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-06 09:42:50,370 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-06 09:42:50,370 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-06 09:42:52,972 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-06 09:52:49,984 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:52:53,057 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 09:52:53,057 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 09:52:54,938 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 09:52:56,871 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:52:59,114 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:52:59,114 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 09:53:01,771 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 09:53:03,861 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:53:06,841 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:53:06,843 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 09:53:08,081 :ERROR : TestCartFunctionality :Test case is failed 
+2024-02-06 09:53:10,766 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:53:13,026 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:53:13,027 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:53:15,206 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:54:37,378 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:54:39,804 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 09:54:39,805 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 09:54:41,898 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 09:54:43,719 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:54:46,810 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:54:46,810 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 09:54:49,162 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 09:54:51,163 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:54:53,366 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:54:53,366 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 09:54:54,863 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 09:54:56,994 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:54:58,891 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:54:58,892 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:55:01,210 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-06 09:55:20,261 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-06 09:55:20,262 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-06 09:55:20,262 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:55:22,386 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-06 09:55:24,796 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-06 09:55:24,796 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-06 09:55:24,796 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:55:26,518 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-06 09:55:28,972 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-06 09:55:28,972 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-06 09:55:28,972 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-06 09:55:30,825 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-06 09:55:54,350 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-06 09:55:54,351 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-06 09:55:54,351 :INFO : Test_002_Login :****Opening URL****
+2024-02-06 09:55:56,908 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-06 09:56:05,756 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-06 09:56:05,756 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-06 09:56:05,756 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-06 09:56:09,045 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-06 09:56:15,920 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-06 09:56:15,920 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-06 09:56:15,920 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:56:18,531 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-06 09:56:20,941 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-06 09:56:20,941 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-06 09:56:20,942 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-06 09:56:22,864 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-06 09:56:25,113 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-06 09:56:25,113 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-06 09:56:25,114 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-06 09:56:27,186 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-06 09:56:37,670 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-06 09:56:40,349 :INFO : TestCartFunctionality :************* Login succesfully **********
+2024-02-06 09:56:40,349 :INFO : TestCartFunctionality :******* Starting Add Item Test **********
+2024-02-06 09:56:42,625 :INFO : TestCartFunctionality :**** Add item to cart test passed ****
+2024-02-06 09:56:44,854 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-06 09:56:47,204 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:56:47,204 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-06 09:56:49,594 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-06 09:56:51,539 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-06 09:56:53,895 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:56:53,896 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-06 09:56:55,697 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-06 09:56:58,030 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-06 09:57:00,337 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-06 09:57:00,338 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-06 09:57:01,160 :ERROR : TestCartFunctionality :Test case test_add_item_to_wishlist is failed
+2024-02-15 14:19:08,203 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 14:19:08,204 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 14:19:08,204 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 14:19:13,159 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 14:29:58,947 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 14:29:58,961 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:02:14,265 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 15:02:14,266 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:02:14,267 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 15:02:19,329 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 15:03:11,690 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 15:03:11,691 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:03:11,691 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 15:03:18,449 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 15:04:30,787 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 15:04:30,788 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 15:04:30,788 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 15:04:34,153 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 15:06:06,372 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 15:06:06,372 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 15:06:06,373 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 15:06:09,229 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 15:07:30,076 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 15:07:30,076 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:07:30,077 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 15:07:35,227 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 15:10:02,597 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 15:10:02,598 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:10:02,598 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 15:10:07,506 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 15:10:40,349 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-15 15:10:40,349 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-15 15:10:40,349 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-15 15:10:43,260 :INFO : Test_001_Registrations :********** User Registration test case is passed **********
+2024-02-15 15:11:18,348 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 15:11:18,373 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 15:11:18,373 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 15:11:20,522 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 15:11:46,067 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 15:11:46,068 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 15:11:46,068 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 15:11:49,524 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 15:14:15,298 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 15:14:15,339 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 15:14:15,354 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 15:14:18,405 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 15:18:25,493 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 15:18:25,518 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 15:18:29,209 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 15:18:29,210 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 15:18:31,570 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 15:18:31,571 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 15:22:33,327 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 15:22:33,329 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 15:22:33,330 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:22:36,206 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-15 15:22:38,846 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 15:22:38,847 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 15:22:38,847 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:22:40,750 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 15:22:43,042 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 15:22:43,050 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 15:23:43,860 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 15:23:43,860 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 15:23:43,861 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:23:45,846 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-15 15:23:48,391 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 15:23:48,392 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 15:23:48,392 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:23:50,571 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 15:23:52,916 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 15:23:52,916 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 15:23:52,916 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 15:23:55,480 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 15:33:31,695 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 15:33:31,698 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 15:33:31,698 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:33:35,559 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-15 15:33:38,393 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 15:33:38,394 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 15:33:38,394 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 15:33:40,317 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 15:33:43,306 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 15:33:43,307 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 15:33:43,308 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 15:33:44,996 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 15:36:15,653 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-15 15:36:19,656 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-15 15:36:22,309 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:36:22,309 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-15 15:36:25,664 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-15 15:36:28,433 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-15 15:36:30,141 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:36:30,142 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-15 15:36:31,677 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-15 15:36:34,412 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 15:36:36,003 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:36:36,003 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 15:36:37,998 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-15 15:40:28,024 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-15 15:40:31,864 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-15 15:40:34,188 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:40:34,189 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-15 15:40:35,277 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:36,207 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:37,177 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:38,380 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:39,443 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:40,594 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:41,679 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:42,635 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:43,587 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:44,740 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-15 15:40:48,844 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-15 15:40:53,340 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:40:53,340 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-15 15:40:55,246 :ERROR : <module> :test_checkout is failed
+2024-02-15 15:41:19,585 :ERROR : <module> :test_checkout is failed
+2024-02-15 15:41:23,444 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 15:41:26,943 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:41:26,943 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 15:41:29,600 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-15 15:41:31,969 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-15 15:41:34,244 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-15 15:41:35,611 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-15 15:41:36,702 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-15 15:42:23,796 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-15 15:42:26,420 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-15 15:42:28,418 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:42:28,418 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-15 15:42:30,835 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-15 15:42:33,704 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-15 15:42:35,737 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:42:35,738 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-15 15:42:37,408 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-15 15:42:39,959 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 15:42:41,678 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:42:41,678 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 15:42:43,528 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-15 15:44:17,603 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-15 15:44:22,549 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-15 15:44:25,004 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:44:25,005 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-15 15:44:28,093 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-15 15:44:30,813 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-15 15:44:33,123 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:44:33,124 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-15 15:44:34,958 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-15 15:44:37,616 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 15:44:39,410 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 15:44:39,411 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 15:44:41,435 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-15 18:11:29,220 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-15 18:11:32,773 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 18:11:32,773 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-15 18:11:34,783 :ERROR : TestCartFunctionality :**** Remove item from cart test failed ****
+2024-02-15 18:12:20,821 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 18:12:22,525 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 18:12:22,526 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 18:12:24,748 :ERROR : TestCartFunctionality :**** Add item to wishlist test failed ****
+2024-02-15 18:25:02,248 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-15 18:25:04,134 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 18:25:04,134 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-15 18:25:05,025 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-15 18:25:31,921 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-15 18:25:33,708 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-15 18:25:33,709 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-15 18:25:36,189 :ERROR : TestCartFunctionality :**** Add item to wishlist test failed ****
+2024-02-15 18:45:54,902 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 18:45:54,903 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 18:45:54,903 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 18:48:25,595 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 18:48:25,597 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 18:48:25,597 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 18:48:50,120 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-15 18:48:50,121 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-15 18:48:50,122 :INFO : Test_002_Login :****Opening URL****
+2024-02-15 18:48:52,365 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-15 19:24:15,766 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 19:24:15,766 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 19:24:15,766 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 19:24:17,326 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-15 19:25:55,165 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 19:25:55,166 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 19:25:55,166 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 19:25:57,569 :ERROR : Test_003_ComputersGroup :**** Sorting test failed****
+2024-02-15 19:48:07,846 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 19:48:07,846 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 19:48:07,847 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 19:52:03,155 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 19:52:03,156 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 19:52:03,156 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 19:52:05,068 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 20:02:42,561 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:02:42,562 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:02:42,562 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 20:02:44,241 :ERROR : Test_003_ComputersGroup :**** Items Per Page Test Failed ****
+2024-02-15 20:03:04,501 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 20:03:04,502 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 20:03:04,502 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 20:03:06,308 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 20:03:22,983 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:03:22,983 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:03:22,983 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 20:03:25,060 :ERROR : Test_003_ComputersGroup :**** Items Per Page Test Failed ****
+2024-02-15 20:03:49,680 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:03:49,702 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:03:49,709 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 20:03:51,725 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 20:05:10,532 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:05:10,533 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:05:10,533 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 20:06:47,611 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:06:47,613 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:06:47,613 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 20:07:57,933 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 20:07:57,934 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 20:07:57,935 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 21:42:54,473 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 21:42:54,475 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 21:42:54,475 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 21:42:57,687 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:42:58,715 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:42:59,875 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:00,617 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:10,044 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:11,225 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:11,990 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:12,951 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:24,058 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:25,637 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:26,854 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:27,394 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:33,141 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:33,917 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:34,632 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:35,449 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:36,074 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:36,810 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:37,646 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:43:38,001 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:01,106 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:01,668 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:03,115 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:04,012 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:37,430 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:37,807 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:38,122 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:38,491 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:38,843 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:39,169 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:39,505 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:40,691 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:45,575 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:46,768 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:47,364 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:48,228 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:48,610 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:48,912 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:49,232 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:49,619 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:55,549 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:55,863 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:56,229 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:57,368 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:58,301 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:58,881 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:45:59,545 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:46:00,325 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:47:41,388 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 21:47:41,389 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 21:47:41,389 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 21:47:59,867 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 21:47:59,869 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 21:47:59,869 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 21:48:03,205 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:03,905 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:04,370 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:04,720 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:26,952 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:27,312 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:28,288 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:29,209 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:29,595 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:29,909 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:30,225 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:30,556 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:37,986 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:38,339 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:38,712 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:39,185 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:40,341 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:41,183 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:41,563 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:42,771 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:57,647 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:57,982 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:58,307 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:58,639 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:59,207 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:48:59,822 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:00,735 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:01,127 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:03,548 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:03,904 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:04,256 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:05,098 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:06,311 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:07,174 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:07,958 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:08,299 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:23,532 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:23,865 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:24,178 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:24,500 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:24,894 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:25,220 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:46,434 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:46,759 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:47,058 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:47,366 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:47,704 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:49:48,101 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:09,563 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:30,912 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:31,542 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:32,227 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:35,256 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:35,589 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:35,934 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:36,336 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:50:36,790 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:00,712 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 21:51:00,713 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 21:51:00,713 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 21:51:09,627 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:10,371 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:10,761 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:11,083 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:18,333 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:18,658 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:19,049 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:19,390 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:20,082 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:20,504 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:20,863 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:42,143 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:51:43,020 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:04,220 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:04,535 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:04,852 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:05,291 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:05,604 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:06,448 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:52:06,867 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:23,515 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:23,859 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:24,235 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:25,479 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:47,420 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:48,228 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:48,626 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:49,025 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:50,355 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:50,782 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:57:51,122 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:58:12,524 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:58:12,971 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:58:13,621 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:58:14,049 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:58:14,369 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:59:57,238 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:59:57,699 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 21:59:58,076 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:15,105 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:00:15,106 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:00:15,109 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:00:18,325 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:19,232 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:19,819 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:20,600 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:37,741 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:38,154 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:38,557 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:39,438 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:39,915 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:40,264 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:40,631 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:41,022 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:52,455 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:53,074 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:53,417 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:53,755 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:54,115 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:54,501 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:54,835 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:55,154 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:58,775 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:59,104 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:59,422 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:00:59,772 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:00,215 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:21,550 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:21,863 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:22,338 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:27,074 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:27,408 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:27,816 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:28,202 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:39,003 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:39,347 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:39,771 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:01:54,169 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:04:44,307 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:04:44,841 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:04:46,446 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:04:47,192 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:05:58,386 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:05:58,706 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:05:59,327 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:20,690 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:21,411 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:22,435 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:23,091 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:23,896 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:24,353 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:24,985 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:26,057 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:06:26,377 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:07:33,717 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:07:33,717 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:07:33,718 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:10:20,563 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:10:20,565 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:10:20,565 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:10:46,005 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:10:46,007 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:10:46,008 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:10:49,442 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:10:49,885 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:10:50,323 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:10,169 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:10,761 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:11,069 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:11,363 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:11,670 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:21,317 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:21,632 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:21,942 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:22,294 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:22,653 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:43,882 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:44,228 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:11:44,552 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:05,728 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:06,054 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:27,344 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:27,688 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:48,990 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:49,392 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:50,275 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:50,664 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:53,506 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:53,880 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:12:54,249 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:09,969 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:13:09,969 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:13:09,969 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:13:22,689 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:13:22,691 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:13:22,692 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:13:29,728 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:30,142 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:30,642 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:31,442 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:38,252 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:38,594 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:13:39,021 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:14:00,297 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:14:00,626 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:14:00,942 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:14:01,277 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:14:01,587 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:15:08,421 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:15:08,422 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:15:08,422 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:16:51,252 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:16:51,255 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:16:51,255 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:17:42,800 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:17:42,802 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:17:42,802 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:18:06,116 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:18:06,118 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:18:06,119 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:18:32,411 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:18:32,419 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:18:32,420 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:19:10,825 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:11,157 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:11,730 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:32,983 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:33,295 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:33,633 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:33,994 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:34,319 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:56,249 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:57,060 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:19:57,556 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:19,073 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:19,647 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:19,977 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:20,301 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:20,647 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:21,014 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:21,343 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:21,661 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:21,978 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:35,162 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:35,520 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:35,844 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:36,182 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:36,532 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:36,833 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:37,146 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:20:37,500 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:38,286 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:38,652 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:38,990 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:39,327 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:39,696 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:21:40,027 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:01,246 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:01,635 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:03,407 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:03,721 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:04,030 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:04,332 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:04,678 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:04,981 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:05,286 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:05,590 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:21,113 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:21,458 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:21,881 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:22:43,257 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:39,355 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:40,505 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:41,200 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:42,089 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:42,591 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:42,974 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:43,976 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:23:44,471 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:15,253 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:15,609 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:16,105 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:37,352 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:37,680 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:38,063 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:24:59,483 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:20,831 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:53,847 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:54,183 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:54,506 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:54,834 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:55,160 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:55,482 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:55,794 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:56,104 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:56,404 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:56,707 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:57,119 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:57,448 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:57,793 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:58,106 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:58,484 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:25:58,813 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:08,981 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:09,315 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:09,639 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:10,004 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:10,369 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:11,139 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:11,535 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:11,847 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:33,828 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:34,324 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:36,332 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:37,216 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:37,790 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:41,036 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:41,901 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:42,253 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:42,622 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:42,923 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:43,306 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:26:43,673 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:05,120 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:05,596 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:26,908 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:27,274 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:28,356 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:28,780 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:29,119 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:29,486 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:50,716 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:51,024 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:51,335 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:51,657 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:51,982 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:52,309 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:27:52,931 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:14,126 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:14,459 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:14,779 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:15,138 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:15,440 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:15,747 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:16,051 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:16,345 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:16,651 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:17,025 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:17,355 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:17,723 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:18,070 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:18,407 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:28:18,739 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:24,926 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:25,321 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:25,710 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:41,148 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:29:41,149 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:29:41,150 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:29:52,475 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:52,830 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:29:53,181 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:06,198 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:06,748 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:07,200 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:07,549 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:29,509 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:30,338 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:30,758 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:31,300 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:32,202 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:32,585 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:32,913 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:33,242 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:33,562 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:43,511 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:44,024 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:44,344 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:44,687 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:45,053 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:45,352 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:45,645 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:30:45,966 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:05,376 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:05,714 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:06,052 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:06,372 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:06,725 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:07,021 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:07,331 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:07,647 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:16,636 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:16,970 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:17,307 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:17,684 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:18,067 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:18,439 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:18,869 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:31:19,644 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:35:17,295 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:35:17,296 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:35:17,296 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:35:45,433 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:35:45,794 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:35:46,145 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:07,350 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:07,689 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:08,039 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:08,549 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:08,873 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:09,206 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:09,529 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:09,867 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:10,189 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:10,512 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:10,880 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:23,828 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:24,186 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:24,583 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:45,869 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:58,137 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:58,583 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:36:59,619 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:37:00,074 :ERROR : <module> :test_items_per_page is failed
+2024-02-15 22:40:26,547 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:40:26,548 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:40:26,548 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:40:29,401 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 22:41:33,032 :INFO : Test_003_ComputersGroup :*************** Test_001_ComputersGroup *****************
+2024-02-15 22:41:33,034 :INFO : Test_003_ComputersGroup :****Started Computers Sub-Groups test ****
+2024-02-15 22:41:33,034 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 22:41:34,784 :INFO : Test_003_ComputersGroup :**** Computers Sub-Groups test passed ****
+2024-02-15 22:41:36,992 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 22:41:36,993 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 22:41:36,993 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 22:41:38,894 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 22:41:41,022 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 22:41:41,022 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 22:41:41,022 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 22:41:43,247 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 23:13:28,893 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 23:13:28,893 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 23:13:28,893 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 23:13:31,121 :ERROR : <module> :test_sorting is failed
+2024-02-15 23:17:20,739 :INFO : Test_003_ComputersGroup :*************** Test_002_Sorting *****************
+2024-02-15 23:17:20,741 :INFO : Test_003_ComputersGroup :****Started Sorting test ****
+2024-02-15 23:17:20,741 :INFO : Test_003_ComputersGroup :****Opening URL****
+2024-02-15 23:17:23,243 :INFO : Test_003_ComputersGroup :**** Sorting test passed ****
+2024-02-15 23:18:00,365 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 23:18:00,366 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 23:18:00,366 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 23:18:02,651 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-15 23:19:25,708 :INFO : Test_003_ComputersGroup :*************** Test_003_ItemsPerPage *****************
+2024-02-15 23:19:25,712 :INFO : Test_003_ComputersGroup :**** Started Items Per Page Test ****
+2024-02-15 23:19:25,712 :INFO : Test_003_ComputersGroup :**** Opening URL ****
+2024-02-15 23:19:27,717 :INFO : Test_003_ComputersGroup :**** Items Per Page Test Passed ****
+2024-02-16 07:52:25,325 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 07:52:27,321 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 07:52:27,321 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 07:52:29,591 :ERROR : TestCartFunctionality :**** Add item to wishlist test failed ****
+2024-02-16 08:03:37,311 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:03:39,545 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:03:39,551 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:07:21,513 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:07:23,106 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:07:23,106 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:07:25,480 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:30:48,194 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:30:50,178 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:30:50,178 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:30:51,867 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:42,177 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:37:45,498 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:37:45,498 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:37:48,679 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:49,545 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:50,465 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:51,361 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:52,240 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:53,181 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:54,106 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:55,101 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:55,972 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:56,851 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:37:57,745 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:38:53,920 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:38:56,175 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:38:56,175 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:39:28,774 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:39:32,064 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:39:32,064 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:43:44,830 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:43:47,408 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:43:47,408 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:44:53,488 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:44:56,302 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:44:56,302 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:55:39,634 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 08:55:41,735 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 08:55:41,736 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 08:55:46,497 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:55:46,917 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:55:47,631 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:09,194 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:22,331 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:22,729 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:23,184 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:44,679 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:56:45,075 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:06,667 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:07,856 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:08,337 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:30,310 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:30,989 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:31,547 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:32,135 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:32,931 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:57:33,383 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:53,871 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:54,449 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:55,381 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:56,559 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:57,022 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:57,827 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:58,268 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:58,705 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:59,442 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:58:59,799 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:00,285 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:21,615 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:21,989 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:22,423 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:23,388 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:23,795 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:26,502 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:26,920 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:27,597 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 08:59:28,608 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:06,671 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:07,230 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:56,278 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:56,728 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:57,181 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:00:57,631 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:42,958 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:43,381 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:43,874 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:44,361 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:45,194 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:45,634 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:46,203 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:47,050 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:47,531 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:48,131 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:48,961 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:49,409 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:49,849 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:50,359 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:51,200 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:01:51,618 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:02,738 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:03,044 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:05,816 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:06,662 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:07,480 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:08,285 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:09,192 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:10,044 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:10,866 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:11,678 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:12,491 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:02:13,298 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:04:02,234 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:04:04,577 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:04:04,577 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:04:15,457 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:04:15,851 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:04:16,317 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:04:37,781 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:05:23,683 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:05:25,574 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:05:25,574 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:07:26,720 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:07:30,203 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:07:30,207 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:09:30,016 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:09:32,302 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:09:32,302 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:09:42,149 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:43,074 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:43,928 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:44,782 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:45,661 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:47,157 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:48,619 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:49,472 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:50,330 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:09:51,332 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:04,359 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:10:06,568 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:10:06,568 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:10:17,732 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:18,135 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:18,550 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:18,917 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:24,867 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:25,327 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:25,770 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:10:26,223 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:13:59,238 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:14:01,167 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:14:01,167 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:14:11,072 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:11,449 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:11,847 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:12,822 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:16,305 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:16,666 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:17,038 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:17,552 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:14:23,700 :ERROR : TestCartFunctionality :**** Add item to wishlist test failed ****
+2024-02-16 09:15:41,116 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:15:43,881 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:15:43,882 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:15:56,023 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:15:56,429 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:17,790 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:18,262 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:18,999 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:19,444 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:19,943 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:20,976 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:21,566 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:22,557 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:23,177 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:23,876 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:24,960 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:25,372 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:25,734 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:26,142 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:26,547 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:26,978 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:27,381 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:27,745 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:50,781 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:51,136 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:51,561 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:51,889 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:52,262 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:53,057 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:53,762 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:54,122 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:54,580 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:55,194 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:55,961 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:16:56,356 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:06,548 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:06,902 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:07,249 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:07,609 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:08,066 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:08,495 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:09,293 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:09,641 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:18,266 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:18,623 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:19,020 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:19,438 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:25,098 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:25,459 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:25,816 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:26,186 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:26,569 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:26,897 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:27,230 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:17:27,558 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:07,366 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:07,831 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:08,327 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:08,812 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:09,749 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:10,110 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:10,464 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:18:11,223 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:05,854 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:19:07,495 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:19:07,496 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:19:21,302 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:21,719 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:22,173 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:22,547 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:22,953 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:23,376 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:23,740 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:24,552 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:19:26,436 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 09:26:30,151 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:26:33,734 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:26:33,735 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:26:50,061 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:51,120 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:52,167 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:54,024 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:55,470 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:56,314 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:57,214 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:58,095 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:26:59,038 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:00,288 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:00,684 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:01,094 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:01,472 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:01,910 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:02,347 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:02,866 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:03,368 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:29,857 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:27:32,638 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:27:32,639 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:27:42,359 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:42,734 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:43,156 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:43,606 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:46,424 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:46,787 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:47,273 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:27:53,348 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:42,742 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:43,093 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:43,459 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:43,820 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:44,189 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:44,513 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:44,826 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:28:45,150 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:33:02,122 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:33:05,446 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:33:05,446 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:53:57,549 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:54:00,820 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:54:00,820 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:54:39,974 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:54:42,827 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:54:42,828 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:54:45,414 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:54:45,943 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 09:55:35,989 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:55:38,538 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:55:38,538 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:55:40,373 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:55:41,209 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:55:42,105 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:55:42,994 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:55:44,020 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:55:44,971 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:56:02,722 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:57:51,104 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:57:53,503 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:57:53,503 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:57:55,390 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:57:55,920 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 09:58:07,103 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 09:58:08,964 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 09:58:08,965 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 09:58:11,467 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 09:58:11,993 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 10:00:04,907 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 10:00:07,000 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:00:07,001 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 10:00:09,198 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 10:00:09,732 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 10:26:33,957 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 10:26:36,142 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:26:36,142 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 10:26:37,228 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:38,087 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:39,026 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:39,921 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:40,946 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:41,868 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:43,177 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:44,156 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:45,915 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:26:47,613 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:34:01,754 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 10:34:03,682 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:34:03,683 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 10:34:06,198 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 10:34:06,729 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 10:34:51,002 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 10:34:52,823 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:34:52,823 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 10:37:39,751 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 10:37:42,093 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:37:42,093 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 10:37:44,631 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:37:45,398 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:37:46,129 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:37:46,516 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:03,501 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:03,904 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:04,271 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:04,663 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:05,137 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:05,682 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:06,494 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:38:06,865 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:23,125 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 10:39:25,620 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:39:25,620 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 10:39:27,112 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:28,139 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:29,375 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:30,742 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:31,895 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:32,834 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:33,874 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:34,979 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:35,892 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:36,817 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:54,214 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 10:39:55,934 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:39:55,934 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 10:39:58,331 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 10:39:58,860 :INFO : TestCartFunctionality :**** Add item to Cart test passed ****
+2024-02-16 10:41:38,303 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 10:41:40,583 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 10:41:40,583 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 10:41:41,936 :ERROR : TestCartFunctionality :**** Remove item from cart test failed ****
+2024-02-16 11:08:28,405 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 11:08:31,318 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 11:08:31,318 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 11:08:33,676 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 11:08:35,748 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:33:09,309 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-16 16:33:13,808 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:33:13,809 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-16 16:33:16,509 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-16 16:33:17,045 :INFO : TestCartFunctionality :**** Add item to Cart test passed ****
+2024-02-16 16:33:35,019 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-16 16:33:37,552 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:33:37,552 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-16 16:33:40,290 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-16 16:33:40,826 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-16 16:34:06,327 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 16:34:08,055 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:34:08,055 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 16:34:10,940 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:34:13,052 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:37:11,409 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 16:37:14,127 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:37:14,128 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 16:37:16,445 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:37:18,633 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:50:00,565 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 16:50:04,464 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:50:04,464 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 16:50:07,495 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:50:09,881 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:22,539 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 16:52:24,821 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:52:24,822 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 16:52:26,267 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:27,160 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:28,190 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:29,248 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:30,341 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:31,415 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:32,556 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:33,752 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:34,766 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:52:36,500 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:14,637 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-16 16:53:16,704 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-16 16:53:16,704 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-16 16:53:18,560 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:19,503 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:20,411 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:21,507 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:22,480 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:23,498 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:24,595 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:25,531 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:26,776 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-16 16:53:27,687 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:13:06,108 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-18 20:13:12,068 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:13:12,068 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-18 20:13:14,256 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-18 20:13:14,789 :INFO : TestCartFunctionality :**** Add item to Cart test passed ****
+2024-02-18 20:13:28,921 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:13:30,808 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:13:30,808 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:13:32,875 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:23,977 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:21:27,232 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:21:27,233 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:21:29,538 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:30,433 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:30,870 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:31,411 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:31,954 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:32,385 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:32,807 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:33,177 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:54,615 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:57,349 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:58,424 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:21:59,592 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:00,038 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:00,540 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:01,612 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:02,585 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:03,619 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:25,184 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:26,645 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:28,165 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:22:29,193 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:17,426 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:24:20,174 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:24:20,174 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:24:22,346 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:23,188 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:23,636 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:24,062 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:24,513 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:24,904 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:25,289 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:24:25,689 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:30,492 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:32,748 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:33,868 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:34,315 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:34,767 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:35,936 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:36,821 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:37,296 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:37,764 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:48,905 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:49,541 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:50,858 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:25:51,916 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:32,047 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:28:34,296 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:28:34,297 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:28:35,921 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:36,817 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:37,713 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:38,664 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:40,171 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:42,297 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:43,947 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:28:44,845 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:29:38,749 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:29:40,924 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:29:40,924 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:29:43,503 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:21,526 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:30:23,765 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:30:23,765 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:30:25,850 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:27,783 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:28,709 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:29,935 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:30,347 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:30,721 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:32,038 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:33,018 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:30:34,097 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:37:02,230 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 20:37:04,147 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:37:04,150 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 20:37:06,810 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:37:08,864 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 20:37:08,864 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-18 20:56:08,626 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 20:56:12,397 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 20:56:12,397 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 20:56:12,405 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-18 21:07:37,182 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:07:41,836 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:07:41,837 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:07:42,899 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:43,888 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:44,938 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:46,072 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:47,038 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:48,057 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:49,549 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:50,493 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:07:52,577 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:09:55,991 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:09:57,846 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:09:57,846 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:09:59,741 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:00,619 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:01,458 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:02,337 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:03,199 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:04,019 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:04,924 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:07,488 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:08,408 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:10:09,278 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:50,612 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:12:53,163 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:12:53,163 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:12:54,591 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:55,526 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:56,470 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:57,379 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:58,465 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:12:59,804 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:13:00,775 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:13:17,804 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:15:24,625 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:15:28,478 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:15:28,478 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:15:30,766 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:15:32,851 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:13,650 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:16:17,139 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:16:17,140 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:16:18,261 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:19,217 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:20,190 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:21,889 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:22,988 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:34,407 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:16:36,659 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:16:36,659 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:16:39,209 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:16:51,820 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-18 21:17:20,081 :INFO : TestCartFunctionality :*************** Test_001_AddItemToCart *****************
+2024-02-18 21:17:22,362 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:17:22,362 :INFO : TestCartFunctionality :******* Starting Add Item to Cart Test **********
+2024-02-18 21:17:24,839 :ERROR : <module> :test_add_item_to_cart is failed
+2024-02-18 21:17:25,371 :INFO : TestCartFunctionality :**** Add item to Cart test passed ****
+2024-02-18 21:17:51,050 :INFO : TestCartFunctionality :*************** Test_002_RemoveItemFromCart *****************
+2024-02-18 21:17:53,205 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:17:53,205 :INFO : TestCartFunctionality :******* Starting Remove Item Test **********
+2024-02-18 21:17:55,561 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 21:17:57,529 :ERROR : <module> :test_remove_item_from_cart is failed
+2024-02-18 21:17:57,529 :INFO : TestCartFunctionality :**** Remove item from cart test passed ****
+2024-02-18 21:18:07,897 :INFO : TestCartFunctionality :*************** Test_003_Checkout *****************
+2024-02-18 21:18:09,843 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:18:09,843 :INFO : TestCartFunctionality :****Starting Checkout Test ****
+2024-02-18 21:18:13,041 :ERROR : <module> :test_checkout is failed
+2024-02-18 21:18:19,837 :INFO : TestCartFunctionality :**** Checkout test passed ****
+2024-02-18 21:18:33,118 :INFO : TestCartFunctionality :*************** Test_001_AddItemToWishlist *****************
+2024-02-18 21:18:35,587 :INFO : TestCartFunctionality :************* Login successfully **********
+2024-02-18 21:18:35,587 :INFO : TestCartFunctionality :******* Starting Add Item to Wishlist Test **********
+2024-02-18 21:18:38,727 :ERROR : <module> :test_add_item_to_wishlist is failed
+2024-02-18 21:18:39,258 :INFO : TestCartFunctionality :**** Add item to wishlist test passed ****
+2024-02-18 21:19:32,866 :INFO : Test_002_Login :*************** Test_002_Login *****************
+2024-02-18 21:19:32,922 :INFO : Test_002_Login :****Started User Login test ****
+2024-02-18 21:19:32,922 :INFO : Test_002_Login :****Opening URL****
+2024-02-18 21:19:35,376 :INFO : Test_002_Login :**** User Login test passed ****
+2024-02-18 21:19:47,877 :INFO : Test_001_Registrations :*************** Test_001_Registration *****************
+2024-02-18 21:19:47,878 :INFO : Test_001_Registrations :**** Registration test started ****
+2024-02-18 21:19:47,878 :INFO : Test_001_Registrations :****Opening URL****
+2024-02-18 21:19:50,738 :INFO : Test_001_Registrations :********** User Registration test case is passed **********

@@ -1,6 +1,6 @@
-from pageObjects.AboutPage import AboutPage
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
+from EpamProject.pageObjects.AboutPage import AboutPage
+from EpamProject.utilities.readProperties import ReadConfig
+from EpamProject.utilities.customLogger import LogGen
 
 
 class Test_001_About:

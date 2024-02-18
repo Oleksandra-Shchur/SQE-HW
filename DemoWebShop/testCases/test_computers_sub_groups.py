@@ -1,69 +1,52 @@
-from pageObjects.ComputersGroup import ComputersGroup
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
-import os
-from selenium.webdriver.support.events import EventFiringWebDriver
-from utilities.DriverListener import DriverListener
+from DemoWebShop.pageObjects.ComputersGroup import ComputersGroup
+from DemoWebShop.utilities.readProperties import ReadConfig
+from DemoWebShop.utilities.customLogger import LogGen
 
 
 class Test_003_ComputersGroup:
     base_url = ReadConfig.get_application_url()
     logger = LogGen.loggen()
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    project_dir = os.path.dirname(current_dir)
-    screenshots_dir = os.path.join(project_dir, 'Screenshots')
 
     def test_computers_sub_groups(self, setup):
         self.logger.info("*************** Test_001_ComputersGroup *****************")
         self.logger.info("****Started Computers Sub-Groups test ****")
-        self.driver = setup
-        e_driver = EventFiringWebDriver(self.driver, DriverListener(self.driver, self.logger, self.screenshots_dir))
+        e_driver = setup
         self.logger.info("****Opening URL****")
         e_driver.get(self.base_url)
         computers_group = ComputersGroup(e_driver)
-        if computers_group.verify_computers_sub_groups():
-            self.logger.info("**** Computers Sub-Groups test passed ****")
-            assert True
-        else:
-            self.logger.error("**** Computers Sub-Groups test failed****")
-            assert False
-        e_driver.quit()
+        actual_sub_group_names = computers_group.get_computers_sub_groups()
+        assert len(actual_sub_group_names) == 3, "**** Computers Sub-Groups count test failed ****"
+        for name in ['Desktops', 'Notebooks', 'Accessories']:
+            assert name in actual_sub_group_names, "**** Computers Sub-Groups name test failed ****"
+        self.logger.info("**** Computers Sub-Groups test passed ****")
 
     def test_sorting(self, setup):
         self.logger.info("*************** Test_002_Sorting *****************")
         self.logger.info("****Started Sorting test ****")
-        self.driver = setup
-        e_driver = EventFiringWebDriver(self.driver, DriverListener(self.driver, self.logger, self.screenshots_dir))
+        e_driver = setup
         self.logger.info("****Opening URL****")
         e_driver.get(self.base_url + "desktops")
         computers_group = ComputersGroup(e_driver)
         sorting_option_text = "Created on"
-
-        # here we check only sorting label was changed, but what about has products order changed?
-        if computers_group.select_sort_option(sorting_option_text):
-            self.logger.info("**** Sorting test passed ****")
-            assert True
-        else:
-            self.logger.error("**** Sorting test failed****")
-            assert False
-        e_driver.quit()
+        products_order_before = computers_group.get_products_order()
+        assert computers_group.select_sort_option(sorting_option_text), \
+            "**** Sorting test failed ****"
+        products_order_after = computers_group.get_products_order()
+        assert products_order_before != products_order_after, \
+            "**** Products order did not change after sorting ****"
+        self.logger.info("**** Sorting test passed ****")
 
     def test_items_per_page(self, setup):
         self.logger.info("*************** Test_003_ItemsPerPage *****************")
         self.logger.info("**** Started Items Per Page Test ****")
-        self.driver = setup
-        e_driver = EventFiringWebDriver(self.driver, DriverListener(self.driver, self.logger, self.screenshots_dir))
+        e_driver = setup
         self.logger.info("**** Opening URL ****")
         e_driver.get(self.base_url + "desktops")
         computers_group = ComputersGroup(e_driver)
-        items_per_page_value = "12"
-
-        # as in previous we check only labels, what about real number of items per page
+        items_per_page_value = "4"
         is_correct_number_displayed = computers_group.select_items_per_page(items_per_page_value)
-        if is_correct_number_displayed:
-            self.logger.info("**** Items Per Page Test Passed ****")
-            assert True
-        else:
-            self.logger.error("**** Items Per Page Test Failed ****")
-            assert False
-        e_driver.quit()
+        assert is_correct_number_displayed, "**** Items Per Page Test Failed ****"
+        products_count = computers_group.get_products_count()
+        assert int(products_count) == int(
+            items_per_page_value), "Displayed items per page did not match the selected value"
+        self.logger.info("**** Items Per Page Test Passed ****")

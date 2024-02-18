@@ -1,6 +1,6 @@
 .DS_Store
 
-/DemoWebShop/Screenshots/
-/DemoWebShop/Logs/
-/EpamProject/Screenshots/
-/EpamProject/Logs/
+./DemoWebShop/Screenshots/
+./DemoWebShop/Logs/
+./EpamProject/Screenshots/
+./EpamProject/Logs/

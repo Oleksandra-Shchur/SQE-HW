@@ -1,5 +1,5 @@
-from pageObjects.PetAPIActions import PetAPIActions
-from utilities.JSONFixture import JSONFixture
+from APIAutomation.pageObjects.PetAPIActions import PetAPIActions
+from APIAutomation.utilities.JSONFixture import JSONFixture
 
 
 class Test_001_Add_Pet:

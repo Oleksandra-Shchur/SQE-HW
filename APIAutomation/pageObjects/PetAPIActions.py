@@ -1,7 +1,7 @@
-import configparser
-from utilities.JSONFixture import JSONFixture
 import requests
-from utilities.readProperties import ReadConfig
+import configparser
+from APIAutomation.utilities.JSONFixture import JSONFixture
+from APIAutomation.utilities.readProperties import ReadConfig
 
 
 class PetAPIActions:

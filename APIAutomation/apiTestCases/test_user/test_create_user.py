@@ -1,5 +1,5 @@
-from pageObjects.UserAPIActions import UserAPIActions
-from utilities.JSONFixture import JSONFixture
+from APIAutomation.pageObjects.UserAPIActions import UserAPIActions
+from APIAutomation.utilities.JSONFixture import JSONFixture
 
 
 class Test_001_Create_User:

@@ -1,6 +1,6 @@
-from pageObjects.HomePage import HomePage
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
+from EpamProject.pageObjects.HomePage import HomePage
+from EpamProject.utilities.readProperties import ReadConfig
+from EpamProject.utilities.customLogger import LogGen
 
 
 class Test_001_Home:
